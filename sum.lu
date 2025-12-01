@@ -1,0 +1,3 @@
+start
+def results = 1+1
+print "the results is %results"
