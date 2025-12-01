@@ -1,2 +1,5 @@
 *.lu linguist-language=Lumra
 *.lh linguist-language=Lumra
+*.sh linguist-detectable=false
+*.c linguist-detectable=false
+*.py linguist-detectable=false
