@@ -1,0 +1,9 @@
+Lumra:
+  type: programming
+  color: "#8A2BE2"
+  extensions:
+    - ".lu"
+    - ".lh"
+  tm_scope: source.lumra
+  ace_mode: text
+  language_id: 999999999
