@@ -112,4 +112,3 @@ Only attribution needed
 
 This keeps the language open while allowing flexibility in forks, tooling and experimental research.
 
-¿Quieres que agregue algo más?
